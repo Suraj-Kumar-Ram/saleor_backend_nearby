@@ -112,7 +112,7 @@ packaging==20.4
 pathspec==0.8.0
 petl==1.6.2
 phonenumberslite==8.12.7
-pillow==7.2.0
+pillow==9.3.0
 pluggy==0.13.1
 pre-commit==2.6.0
 prices==1.0.0
